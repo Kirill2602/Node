@@ -1,0 +1,8 @@
+{
+  "name": "Node",
+  "version": "1.0.0",
+  "dependencies": {
+    "easytimer.js": "^4.5.1",
+    "moment": "^2.29.1"
+  }
+}
